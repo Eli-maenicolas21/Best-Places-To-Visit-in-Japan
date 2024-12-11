@@ -210,38 +210,38 @@ index.htm
         </div>
 
         <h2 style="color: azure;"> 1. Shibuya </h2>
-        <img src="https://imgur.com/JIp8FVD.jpg" alt="Shibuya" width="800" height="400">
+        <img src="https://imgur.com/JIp8FVD.jpg" alt="Shibuya" width="500" height="300">
         <p style="color: white;"> Shibuya is Tokyo's ultimate shopping destination, pulsating with energy and creativity. It is particularly famous for its youth fashion scene, where high-end brands coexist with trendy street style and indie boutiques. The iconic Shibuya 109 shopping complex serves as a landmark for fashion enthusiasts, offering a myriad of options to explore. Beyond shopping, the area is known for its vibrant atmosphere, bustling streets, and the famous Shibuya Crossing, making it a must-visit for anyone looking to experience the dynamic spirit of Tokyo.</p>
         <h2 style="color: azure;"> 2. Tokyo Skytree</h2>
-        <img src="https://imgur.com/aAnacJx.jpg" alt="Tokyo Skytree" width="800" height="400">
+        <img src="https://imgur.com/aAnacJx.jpg" alt="Tokyo Skytree" width="500" height="300">
         <p style="color: white;"> Standing at an impressive 634 meters, Tokyo Skytree is Japan’s tallest structure and offers breathtaking panoramic views of the city. Located near Asakusa, this architectural marvel features observation decks that provide stunning vistas, especially at sunset. The complex also includes a shopping mall filled with unique stores and a fascinating aquarium that appeals to visitors of all ages. Whether you’re interested in photography or simply soaking in the sights, Tokyo Skytree is an essential stop for anyone visiting the city.
         </p>
 
         <h2 style="color: azure;"> 3. Akihabara</h2>
-        <img src="https://imgur.com/emCIeyV.jpg" alt="Akihabara" width="800" height="400">
+        <img src="https://imgur.com/emCIeyV.jpg" alt="Akihabara" width="500" height="300">
         <p style="color: white;"> Akihabara is the heart and soul of Japan's anime, manga, and otaku culture. This vibrant district invites fans to immerse themselves in their favorite worlds through an extensive array of shops offering everything from rare manga books to limited-edition collectibles. Specialty stores cater to diverse fandoms, showcasing action figures, cosplay costumes, and unique memorabilia. The lively atmosphere, combined with themed cafes and arcades, makes Akihabara a captivating destination for anyone passionate about anime and manga.
         </p>
 
         <h2 style="color: azure;">4. Nakameguro </h2>
-        <img src="https://imgur.com/xhgQNGw.jpg" alt="Nakameguro" width="800" height="400">
+        <img src="https://imgur.com/xhgQNGw.jpg" alt="Nakameguro" width="500" height="300">
         <p style="color: white;"> Nestled along the serene Meguro River, Nakameguro is often considered one of Tokyo's hidden gems. This picturesque area transforms into a stunning cherry blossom tunnel in spring, attracting visitors for hanami (flower viewing). The riverbanks are lined with cozy cafes and restaurants where you can relax and enjoy the view while sipping your favorite beverage. A highlight of Nakameguro is the Starbucks Reserve Roastery Tokyo, the largest Starbucks in the world, offering a unique coffee experience that coffee lovers won’t want to miss.</p>
 
         <h2 style="color: azure;"> 5. Mount Fuji</h2>
-        <img src="https://imgur.com/undefined.jpg" alt="Mount Fuji" width="800" height="400">
+        <img src="https://imgur.com/undefined.jpg" alt="Mount Fuji" width="500" height="300">
         <p style="color: white;">Mount Fuji is Japan's iconic peak and a symbol of natural beauty. A visit to this majestic mountain offers breathtaking views and various outdoor activities. For those not ready to climb to the summit, the Fuji Five Lakes area (Fujigoko) provides excellent vantage points to admire Mount Fuji’s grandeur. Lake Kawaguchiko is particularly popular for paddle boating and lakeside strolls, with opportunities to relax in an onsen (hot spring) while enjoying views of the mountain. This stunning landscape makes Mount Fuji a perfect escape from the urban hustle.
         </p>
 
         <h2 style="color: azure;">6. Kawagoe</h2>
-        <img src="https://imgur.com/o9DbEOP.jpg" alt="Kawagoe" width="800" height="400">
+        <img src="https://imgur.com/o9DbEOP.jpg" alt="Kawagoe" width="500" height="300">
         <p style="color: white;"> Also known as "Little Edo," Kawagoe is a charming town that transports visitors back to Japan’s Edo period. Just an hour from Tokyo, it features traditional clay-walled warehouses along Kurazukuri Street that house quaint shops and cafes. The iconic Toki no Kane (Bell of Time) clock tower stands as a symbol of the town's rich history. For those with a sweet tooth, Kashiya Yokocho offers a nostalgic candy alley filled with colorful treats. Cultural enthusiasts will appreciate Kawagoe Hikawa Shrine, famous for its love-themed charms.
         </p>
 
         <h2 style="color: azure;"> 7. Yokohama</h2>
-        <img src="https://imgur.com/I3jns31.jpg" alt="Yokohama" width="800" height="400">
+        <img src="https://imgur.com/I3jns31.jpg" alt="Yokohama" width="500" height="300">
         <p style="color: white;"> Yokohama is a vibrant seaside city located just 30 minutes by train from Tokyo, offering a delightful blend of coastal charm and urban excitement. Begin your exploration at Minato Mirai 21, a lively waterfront area filled with shopping and dining options alongside stunning views of Tokyo Bay. Stroll through Yokohama Chinatown—the largest in Japan—where you can indulge in delicious dim sum and explore colorful streets lined with shops. History buffs will enjoy visiting the Red Brick Warehouses, which now host trendy shops and cultural events. For a unique experience, don’t miss the Cup Noodles Museum where you can create your custom instant ramen. Finish your day at the Yokohama Landmark Tower Sky Garden for unforgettable panoramic views of the city skyline.</p>
 
         <h2 style="color: azure;"> 8. Hakone</h2>
-        <img src="https://imgur.com/8EZ8cbK.jpg" alt="Hakone" width="800" height="400">
+        <img src="https://imgur.com/8EZ8cbK.jpg" alt="Hakone" width="500" height="300">
         <p style="color: white;"> Hakone is a renowned destination for relaxation and scenic beauty, making it an ideal day trip from Tokyo. Famous for its hot springs (Onsen), this mountainous region offers stunning views of Mount Fuji on clear days. Visitors can explore the Hakone Open-Air Museum, which features captivating sculptures set against lush greenery. A tranquil cruise across Lake Ashi provides another perspective on the area’s natural beauty, while the Hakone Ropeway offers panoramic vistas that are truly unforgettable. Don’t forget to visit Owakudani volcanic valley to experience its unique sulfur springs.
         </p>
 
